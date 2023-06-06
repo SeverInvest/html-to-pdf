@@ -1,6 +1,14 @@
 {
   "name": "html-to-pdf",
   "version": "0.1.0",
+  "description": "приложение генерирует pdf-документ",
+  "license": "MIT",
+  "author": "Николай Васильев",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/SeverInvest/html-to-pdf"
+	},
+  "keywords": ["pdf", "@react-pdf/renderer"],
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^3.1.11",
